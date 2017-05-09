@@ -1,9 +1,9 @@
 # mongo-blog
 
-This is the final blog homework from the MongoDB University course M101J: MongoDB for Java Developers.
+Final blog homework from the MongoDB University course M101J.
 
-The technology stack used for this project:
+Technology stack in this project:
 
-- Java/Spark
-- FreeMarker
-- MongoDB
+- [Spark](http://sparkjava.com/)
+- [FreeMarker](http://freemarker.org/)
+- [MongoDB](https://www.mongodb.com/)
